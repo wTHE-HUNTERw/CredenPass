@@ -8,6 +8,10 @@
   <strong>Organizador digital de credenciales, carnets e identificaciones fotográficas con widgets interactivos y redimensionables para tu pantalla de inicio.</strong>
 </p>
 
+  <a href="https://github.com/wTHE-HUNTERw/CredenPass/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge&logo=github" alt="Release v1.0.0" /></a>
+  <a href="https://github.com/wTHE-HUNTERw/CredenPass/releases/download/v1.0.0/CredenPass-v1.0.0.apk"><img src="https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android" alt="Download APK" /></a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Kotlin-2.3-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
