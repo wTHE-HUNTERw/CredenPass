@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mis Credenciales</string>
+    <string name="widget_name">Credencial en Pantalla</string>
+    <string name="widget_description">Coloca una de tus credenciales o identificaciones directamente en tu pantalla de inicio con tamaño ajustable.</string>
+    <string name="select_credential_for_widget">Selecciona una credencial para este Widget</string>
+    <string name="widget_tap_to_configure">Toca para configurar esta credencial</string>
+    <string name="widget_pin_success">¡Widget agregado a la pantalla de inicio!</string>
+    <string name="widget_pin_not_supported">Tu lanzador no soporta agregar widgets directamente. Puedes añadirlo manualmente desde el menú de Widgets.</string>
+</resources>

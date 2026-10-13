@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="60dp"
+    android:viewportWidth="96"
+    android:viewportHeight="60">
+    <!-- Card Base -->
+    <path
+        android:fillColor="#2D3748"
+        android:pathData="M8,4 h80 a8,8 0 0 1 8,8 v36 a8,8 0 0 1 -8,8 h-80 a8,8 0 0 1 -8,-8 v-36 a8,8 0 0 1 8,-8 z" />
+    <!-- Chip / Photo outline -->
+    <path
+        android:fillColor="#4A5568"
+        android:pathData="M16,14 h20 v24 h-20 z" />
+    <!-- Lines -->
+    <path
+        android:fillColor="#718096"
+        android:pathData="M44,18 h36 v4 h-36 z M44,28 h26 v4 h-26 z M44,38 h32 v4 h-32 z" />
+</vector>

@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="130dp"
+    android:viewportWidth="200"
+    android:viewportHeight="130">
+    <!-- Background Card -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M16,10 h168 a12,12 0 0 1 12,12 v86 a12,12 0 0 1 -12,12 h-168 a12,12 0 0 1 -12,-12 v-86 a12,12 0 0 1 12,-12 z" />
+    <!-- Gradient / Header strip -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M16,10 h168 a12,12 0 0 1 12,12 v16 h-192 v-16 a12,12 0 0 1 12,-12 z" />
+    <!-- Photo Box -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M24,46 h46 v54 h-46 z" />
+    <!-- Photo Avatar silhouette -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M47,62 a10,10 0 1 0 0.01,0 z M34,92 c0,-8 6,-12 13,-12 c7,0 13,4 13,12 z" />
+    <!-- Card Text Lines -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M80,50 h80 v7 h-80 z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M80,64 h60 v5 h-60 z" />
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M80,75 h40 v4 h-40 z" />
+    <!-- Barcode simulation -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M80,88 h8 v12 h-8 z M92,88 h4 v12 h-4 z M100,88 h10 v12 h-10 z M114,88 h6 v12 h-6 z M124,88 h14 v12 h-14 z M142,88 h8 v12 h-8 z" />
+</vector>

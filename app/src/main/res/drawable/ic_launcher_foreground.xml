@@ -1,0 +1,72 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Lanyard Clip / Top Loop -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M51,20 h6 a3,3 0 0 1 3,3 v4 h-12 v-4 a3,3 0 0 1 3,-3 z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M52,24 h4 v3 h-4 z" />
+
+    <!-- Card Shadow -->
+    <path
+        android:fillColor="#40000000"
+        android:pathData="M27,29 h54 a7,7 0 0 1 7,7 v50 a7,7 0 0 1 -7,7 h-54 a7,7 0 0 1 -7,-7 v-50 a7,7 0 0 1 7,-7 z" />
+
+    <!-- Card Base (White ID Card) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,27 h56 a6,6 0 0 1 6,6 v48 a6,6 0 0 1 -6,6 h-56 a6,6 0 0 1 -6,-6 v-48 a6,6 0 0 1 6,-6 z" />
+
+    <!-- Card Header Strip (Vibrant Blue) -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M26,27 h56 a6,6 0 0 1 6,6 v9 h-68 v-9 a6,6 0 0 1 6,-6 z" />
+
+    <!-- Slot hole for badge clip -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M50,30 h8 a2,2 0 0 1 2,2 a2,2 0 0 1 -2,2 h-8 a2,2 0 0 1 -2,-2 a2,2 0 0 1 2,-2 z" />
+
+    <!-- Photo Box (Left) -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M31,46 h22 v28 h-22 a3,3 0 0 1 -3,-3 v-22 a3,3 0 0 1 3,-3 z" />
+
+    <!-- Photo Avatar (Silhouette inside photo box) -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M42,54 a5,5 0 1 0 0,-0.01 z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M35,70 c0,-4 3,-7 7,-7 c4,0 7,3 7,7 z" />
+
+    <!-- Smart Chip (Gold Security Chip) -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M57,47 h11 a2,2 0 0 1 2,2 v8 a2,2 0 0 1 -2,2 h-11 a2,2 0 0 1 -2,-2 v-8 a2,2 0 0 1 2,-2 z" />
+    <path
+        android:fillColor="#CA8A04"
+        android:pathData="M62,47 v12 M55,53 h16" />
+
+    <!-- Text Lines on Card -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M57,63 h25 v3 h-25 z" />
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M57,68 h18 v2.5 h-18 z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M57,73 h14 v2 h-14 z" />
+
+    <!-- Holographic / Security Shield Stamp (Bottom right corner) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M78,70 l4,-2 l4,2 v4 c0,3 -2.5,5 -4,6 c-1.5,-1 -4,-3 -4,-6 z" />
+
+</vector>
